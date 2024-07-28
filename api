@@ -1,20 +1,22 @@
 [
     {
         "number": "1",
-        "Status": "inactive"
+        "status": "inactive"
     },
     {
         "number": "2",
-        "Status": "inactive"
+        "status": "inactive"
     },
     {
         "number": "3",
-        "Status": "inactive"
-    },   {
-        "number": "4",
-        "Status": "active"
-    },   {
-        "number": "5",
-        "Status": "inactive"
+        "status": "inactive"
     },
+    {
+        "number": "4",
+        "status": "active"
+    },
+    {
+        "number": "5",
+        "status": "inactive"
+    }
 ]
